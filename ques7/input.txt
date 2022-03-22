@@ -1,0 +1,4 @@
+Abstract classes may have some
+executable methods and 7873923408 methods left unimplemented. Interfaces contain no
+implementation code. An abstract class can have non abstract 7205435005 methods. All
+methods 1234 of an interface are abstract.
